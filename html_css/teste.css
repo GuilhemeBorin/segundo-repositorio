@@ -1,0 +1,31 @@
+.divCard{
+    width: 500px; 
+    height: fit-content; 
+    background-color: aliceblue; 
+    border-radius: 25px; 
+    border: solid 5px #020200; 
+    margin: 20px;
+}
+
+.divCirculo1 {
+    width: 100px; 
+    height: 100px;
+    background-color: green;
+    border-radius: 50px;
+}
+
+.divCirculo2 {
+    width: 100px; 
+    height: 100px;
+    background-color: OrangeRed;
+    border-radius: 50px;
+}
+
+.h1_orange{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#h1_laranja{
+    font-size: 60px;        
+}
